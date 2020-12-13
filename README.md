@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portafolio
 
 ## Preprodución
@@ -11,3 +12,5 @@ Ubicado en el directorio de preproducción generado, ejemplo: dist/mi_proyecto
 
 ## Navegar sobre el proyecto
 Una vez verificado que el proyecto en preproducción funcione correctamente sin ningún problema ,podemos desplegarlo
+=======
+
